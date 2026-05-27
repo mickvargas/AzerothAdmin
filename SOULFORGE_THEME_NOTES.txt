@@ -1,0 +1,11 @@
+Soulforge Dark UI v4
+
+Cambios aplicados:
+- DropDownStyle.lua: dropdowns azul hielo WotLK.
+- Frames_Start.lua: fondo principal oscuro y paneles secundarios diferenciados para restaurar divisiones visuales.
+- FrameLib-1.0.lua: botones y textos usan fuentes claras en vez de amarillo Blizzard.
+- AceGUIWidget-Label.lua: label dorado global pasado a azul hielo.
+- Frames_PopupFrames.lua: amarillos de popups pasados a azul hielo.
+
+Nota:
+Si no ves cambios, borra WTF/Account/<cuenta>/SavedVariables/AzerothAdmin.lua y AzerothAdmin.lua.bak antes de abrir WoW.
